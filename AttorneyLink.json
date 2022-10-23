@@ -1,0 +1,122 @@
+[
+ {
+  "id": 1,
+  "LawyerName": "Michael P. Addis",
+  "LawyerType": "Litigation",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": -2642,
+  "LawyerEmail": "maddis@cravath.com",
+  "LawyerPicture": "11726.jpg"
+ },
+ {
+  "id": 2,
+  "LawyerName": "Lauren Angelilli",
+  "LawyerType": "Tax",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": "+1-212-474-1016",
+  "LawyerEmail": "langelilli@cravath.com",
+  "LawyerPicture": "n\/a"
+ },
+ {
+  "id": 3,
+  "LawyerName": "Craig F. Arcella",
+  "LawyerType": "Corporate",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": "+1-212-474-1024",
+  "LawyerEmail": "carcella@cravath.com",
+  "LawyerPicture": "9009.jpg"
+ },
+ {
+  "id": 4,
+  "LawyerName": "Michael L. Arnold",
+  "LawyerType": "Corporate",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": "+1-212-474-1664",
+  "LawyerEmail": "marnold@cravath.com",
+  "LawyerPicture": "arnold_michael_2021-web.jpg"
+ },
+ {
+  "id": 5,
+  "LawyerName": "Peter T. Barbur",
+  "LawyerType": "Litigation",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": "+1-212-474-1058",
+  "LawyerEmail": "pbarbur@cravath.com",
+  "LawyerPicture": "10513.jpg"
+ },
+ {
+  "id": 6,
+  "LawyerName": "Robert H. Baron",
+  "LawyerType": "Litigation",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": "+1-212-474-1422",
+  "LawyerEmail": "rbaron@cravath.com",
+  "LawyerPicture": "11771.jpg"
+ },
+ {
+  "id": 7,
+  "LawyerName": "Heather A. Benjamin",
+  "LawyerType": "Trusts and Estates",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": "+1-212-474-1144",
+  "LawyerEmail": "hbenjamin@cravath.com",
+  "LawyerPicture": "benjamin_heather_2021-web.jpg"
+ },
+ {
+  "id": 8,
+  "LawyerName": "D. Scott Bennett",
+  "LawyerType": "Corporate",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": "+1-212-474-1132",
+  "LawyerEmail": "sbennett@cravath.com",
+  "LawyerPicture": "9251.jpg"
+ },
+ {
+  "id": 9,
+  "LawyerName": "Matthew J. Bobby",
+  "LawyerType": "Executive Compensation and Benefits",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": "+1-212-474-1128",
+  "LawyerEmail": "mbobby@cravath.com",
+  "LawyerPicture": "bobby_matthew_2021-web.jpg"
+ },
+ {
+  "id": 10,
+  "LawyerName": "Philip J. Boeckman",
+  "LawyerType": "Corporate",
+  "LawyerFirm": "Cravath, Swaine &amp; Moor LLP",
+  "LawyerLocation": "New York",
+  "LawyerLat": 40.73061,
+  "LawyerLong": -73.935242,
+  "LawyerNumber": "+44-20-7453-1020",
+  "LawyerEmail": "pboeckman@cravath.com",
+  "LawyerPicture": "12059.jpg"
+ }
+]
